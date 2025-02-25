@@ -17,8 +17,8 @@ Olá! Meu nome é Gabriel e sou apaixonado por tecnologia. Estou atualmente estu
 
 ## Projetos
 
-- [Projeto 1](https://gabrielgbx.github.io/amigo-secreto/?): Jogo Do Amigo Secreto
-- [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição breve do projeto.
+- [Projeto 1-Amigo Secreto](https://gabrielgbx.github.io/amigo-secreto/?): Jogo Do Amigo Secreto
+- [Projeto 2- Sorteador De numeros](https://gabrielgbx.github.io/sorteador-de-numeros/): Descrição breve do projeto.
 - [Projeto 3](https://github.com/seu-usuario/projeto3): Descrição breve do projeto.
 
 ## Contato
